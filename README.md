@@ -22,7 +22,10 @@ Additionally, a third map was added as Light.
 Screen shots of some of the results:
 
 1. TectonicPLates_with_Popup.png
+![TectonicPlates_with_Popup](https://user-images.githubusercontent.com/78666055/120072910-0babc080-c064-11eb-9094-82ae6cb4ee65.png)
+
 2. Major_Earthquake_with_popup.png
+![Major_Earthquake_with_popup](https://user-images.githubusercontent.com/78666055/120072916-11090b00-c064-11eb-93e7-87ce184367bf.png)
 
 ## Summary
 
